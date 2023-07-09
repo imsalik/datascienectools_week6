@@ -1,2 +1,2 @@
 # datascienectools_week6
-Assignment for Data Science Tools
+This is final peer graded assignment for Tools for Data Science course
